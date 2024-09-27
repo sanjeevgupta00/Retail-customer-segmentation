@@ -1,4 +1,4 @@
-# Retail-customer-segmentation-
+# Retail-customer-segmentation
 
 ## Project Overview
 This project aims to perform customer segmentation using K-means clustering on an online retail dataset. Customer segmentation helps businesses understand their customer base better by grouping customers into segments based on their purchasing behavior.
